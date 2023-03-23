@@ -1,0 +1,21 @@
+@import './utils/variables';
+@import './utils/mixins';
+@import './base/reset';
+@import './base/common';
+@import './utils/visually-hidden';
+@import './components/container';
+
+@import './components/header';
+
+@import './components/page-webstudio/hero';
+@import './components/page-webstudio/features';
+@import './components/page-webstudio/process';
+@import './components/page-webstudio/team';
+@import './components/page-webstudio/clients';
+
+@import './components/page-portfolio/portfolio-btn';
+@import './components/page-portfolio/portfolio-cards';
+
+@import './components/footer';
+
+@import './components/modal';
